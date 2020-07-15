@@ -8,4 +8,4 @@
 ### Industrial Statistics and Mathematical Finance (UG)
 > University of Colombo
 
-[Personal Projects]([https://pawanpiumal.github.io/](https://pawanpiumal.github.io/))
+[Personal Projects](https://pawanpiumal.github.io/)
