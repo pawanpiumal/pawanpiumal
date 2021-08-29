@@ -5,7 +5,7 @@
 ### BSc (Hons) In Information Technology - Software Engineering (UG)
 > Sri Lanka Institute of Information Technology (SLIIT)
   
-### Industrial Statistics and Mathematical Finance (UG)
+### Industrial Statistics(UG)
 > University of Colombo
 
 [Personal Projects](https://pawanpiumal.github.io/)
