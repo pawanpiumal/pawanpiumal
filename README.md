@@ -7,6 +7,7 @@
   
 ### Industrial Statistics
 > BSc Honours in Industrial Statistics (First Class)
+>
 > University of Colombo
 
 [Personal Projects](https://pawanpiumal.github.io/)
